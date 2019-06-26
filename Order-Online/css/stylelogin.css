@@ -1,0 +1,17 @@
+.form-group{
+	margin-left: 15px;
+	margin-top:10px;
+}
+.btn{
+	margin-left: 15px;
+}
+.btn:hover{
+	background-color:black;
+}
+body,h2{
+	font-family: 'Merriweather', serif;
+	background-image:url(http://dl7a84fewsio5.cloudfront.net/wp-content/uploads/2015/11/BM.png);
+}
+h4{
+	font-family: 'Merriweather', serif;
+}
